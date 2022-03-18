@@ -1,16 +1,52 @@
-### Hi there 👋
 
-<!--
-**aloshabest/aloshabest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-Here are some ideas to get you started:
+<h1 align="center">
+  Hi there 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges" align="center">
+  <img src="https://badges.pufler.dev/visits/aloshabest/aloshabest" alt=""/>
+</div>
+
+### :man_technologist: About Me : 
+- :mortar_board: I’m currently learning python, web
+- :earth_americas: I speak Russian (native), English (B1)
+
+### :trophy: My Progress : 
+
+[![codewars](https://www.codewars.com/users/aloshabest/badges/micro)](https://www.codewars.com/users/aloshabest)
+
+<div id="badges">
+  <a href="https://stepik.org/users/207404328">
+    <img src="https://img.shields.io/badge/stepik-black?style=for-the-badge&logo=stepik&logoColor=white" alt="stepik Badge"/>
+  </a>
+</div>
+
+
+<h1>
+  <width="30px"/>
+</h1>
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+</div>
+
+<h1>
+  <width="30px"/>
+</h1>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aloshabest&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloshabest&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
