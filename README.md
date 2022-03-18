@@ -13,18 +13,31 @@
 </div>
 
 ### :man_technologist: About Me : 
-- :mortar_board: I’m currently learning python, web
+- :mortar_board: I’m currently learning Python
 - :earth_americas: I speak Russian (native), English (B1)
 
 ### :trophy: My Progress : 
 
-[![codewars](https://www.codewars.com/users/aloshabest/badges/micro)](https://www.codewars.com/users/aloshabest)
+Study
 
 <div id="badges">
   <a href="https://stepik.org/users/207404328">
     <img src="https://img.shields.io/badge/stepik-black?style=for-the-badge&logo=stepik&logoColor=white" alt="stepik Badge"/>
   </a>
 </div>
+
+
+
+Codewars Stats
+
+[![codewars](https://www.codewars.com/users/aloshabest/badges/large)](https://www.codewars.com/users/aloshabest)
+
+
+LeetCode Stats
+
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=aloshabest" width="400"/>
+</a>
 
 
 <h1>
