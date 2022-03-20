@@ -36,7 +36,7 @@ Codewars Stats:
 LeetCode Stats:
 
 <a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=aloshabest" width="400"/>
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=aloshabest&theme=dark" width="400"/>
 </a>
 
 
