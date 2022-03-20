@@ -18,7 +18,7 @@
 
 ### :trophy: My Progress : 
 
-Study
+Study:
 
 <div id="badges">
   <a href="https://stepik.org/users/207404328">
@@ -28,12 +28,12 @@ Study
 
 
 
-Codewars Stats
+Codewars Stats:
 
 [![codewars](https://www.codewars.com/users/aloshabest/badges/large)](https://www.codewars.com/users/aloshabest)
 
 
-LeetCode Stats
+LeetCode Stats:
 
 <a href="https://github.com/KnlnKS/leetcode-stats">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=aloshabest" width="400"/>
