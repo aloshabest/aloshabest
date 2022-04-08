@@ -26,6 +26,11 @@ Study:
   </a>
 </div>
 
+<div id="badges">
+  <a href="https://coursera.org/verify/7U6QFWLXNF5R">
+    <img src="https://img.shields.io/badge/coursera-blue?style=for-the-badge&logo=courserak&logoColor=white" alt="coursera Badge"/>
+  </a>
+</div>
 
 
 Codewars Stats:
